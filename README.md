@@ -57,6 +57,6 @@ Push the changes online.
 - Neuromarketing
 - ...
 
-https://github.com/debackerx/Techtalk_setup/blob/master/agenda.md
+[Techtalk's setup agenda](https://github.com/debackerx/Techtalk_setup/blob/master/agenda.md)
 
 
